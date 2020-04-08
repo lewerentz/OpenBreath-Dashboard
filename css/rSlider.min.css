@@ -12,6 +12,7 @@
     font-family: Arial, Helvetica, sans-serif;
     height: 45px;
     position: relative;
+    background-color = #424242;
 }
 
 .rs-container .rs-bg,
